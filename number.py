@@ -2,9 +2,9 @@ import telebot
 from telebot import types
 
 
-token = "inter your token"
+token = "#inter your token"
 bot = telebot.TeleBot(token)
-sudo = "inter your ip bot"
+sudo = "#inter your ip bot"
 bot.set_webhook()
 @bot.message_handler(commands=['start']) 
 def start(message):
