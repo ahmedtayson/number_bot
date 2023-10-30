@@ -1,5 +1,5 @@
 # number_bot
-get phone number using telegram bot
+A new way to trick a person into obtaining his phone number on Telegram if it is hidden
 
 # facebook : (https://www.facebook.com/A7meD.TaYSoN)
 
